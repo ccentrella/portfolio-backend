@@ -18,13 +18,12 @@ const createHtmlMessage = (requestData) =>`
   <title>Invite Form</title>
   <style>
     h2 {
-      color: #38C0DC;
+      color: #1e7c93;
     }
 
     body {
       font-family: system-ui, sans-serif;
       font-size: 16px;
-      background-color: #002028;
       color: #111;
       line-height: 1.5;
       padding: 1rem;
