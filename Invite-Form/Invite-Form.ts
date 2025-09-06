@@ -46,7 +46,7 @@ const createHtmlMessage = (requestData) =>`
   </style>
 </head>
 <body>
-  <h2>Submission Details:</h2>
+  <h2>Submission Details</h2>
 
   <div class="field">
     <strong>Name</strong>
